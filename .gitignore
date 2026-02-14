@@ -1,0 +1,21 @@
+# Build files
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+
+# Excel files
+*.xlsx
+*.xls
+
+# IDE
+.idea/
+*.swp
+*.swo
+
